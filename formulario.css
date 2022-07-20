@@ -1,0 +1,17 @@
+body{
+    background-image: url('https://c.wallhere.com/photos/28/96/space_shuttle_lift_off_NASA-123195.jpg!d');
+    font-family: 'Abel', sans-serif;
+}
+
+#capa{ 
+    background-color: #ffffff10;
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    width: 40%;
+    border-radius: 3%;
+    color: #541212;
+}
+
+h3, form{
+    padding: 10px;
+}
